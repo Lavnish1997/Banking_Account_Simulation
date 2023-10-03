@@ -1,7 +1,6 @@
 # Banking_Account_Simulation
 
-## It is GUI Based Application to know how to work bank tasks like money deposit,withdraw money,create new bank account,etc.
-## i was create for only self practice and develop python knowlege.
+## It is GUI Based Application to know how to work bank tasks like money deposit,withdraw money,create new bank account,etc.I was create for only self practice and develop python knowlege.
 
 ## Technologies used :
    1. HTML
@@ -12,4 +11,4 @@
    Email: lavnishsingh1997@gmail.com
 
 ## Link :
-   url :
+   url : https://lavnish1997.github.io/Banking_Account_Simulation/
